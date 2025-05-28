@@ -32,7 +32,7 @@ module.exports = {
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "919728814060",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "919728814060,32460200787",
     OWNER_NAME: process.env.OWNER_NAME || "➺SANJU࿐",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺SANJU-MD",
