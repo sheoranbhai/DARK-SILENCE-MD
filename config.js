@@ -12,9 +12,9 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~fZ4FXaoB#pNkqzn-bNX04GhUrluDJAqbNpy3dkoAzuA3TKa375DI",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~GRBUjJRA#qR-XJkC1VTf32MsgzAi0B6PAP5EmqbO0ntNtt7DXYm8",
     CAPTION: process.env.CAPTION || "POWERED BY SANJU",
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     MODE: process.env.MODE || "public",
